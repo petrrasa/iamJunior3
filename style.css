@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    color: peru;
+    font-size: 64px;
+}
+
+h1, h2 {
+    display: inline-block;
+}
+
+h1 {
+    background-color: red;
+    border:5px solid black;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    padding-top: 40px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    text-align: right;
+}
+.card {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 40px;
+}
+.card div{
+    border: 10px solid green;
+}
+h2{
+    background-color: green;
+}
+
+a { 
+    display: inline;
+    width: 300px;
+    color: peru;
+}
+
+h2 {background-color: blueviolet;
+}
+h2 {background-color:aliceblue ;
+}
+
+a {
+    display:inline-block ;
+    width: 300px;
+    color: peru;
+}
+
+a{
+    color: purple;
+}
+.color-blue {
+    font-size: 40px;
+}
+#didele-nuoroda {
+    color: green;
+}
+
+nav {
+    background-color: bisque;
+}
